@@ -3603,4 +3603,282 @@ Script call stack:
 [2015.01.23-22.33.05:240][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.060942s)
 [2015.01.23-22.33.05:314][838]LogWorld: Game class is 'MyGame_C'
 [2015.01.23-22.33.05:318][838]LogAIModule: Creating AISystem for world Example_Map
-[2015.01.23-22.33.0
+[2015.01.23-22.33.05:321][838]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2015.01.23-23.33.05
+[2015.01.23-22.33.05:322][838]LogWorld: Bringing up level for play took: 0.003547
+[2015.01.23-22.33.05:327][838]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map -0.402
+[2015.01.23-22.33.06:876][900]LogBlueprintUserMessages: What do we do now ?
+[2015.01.23-22.33.08:392][967]LogBlueprintUserMessages: What do we do now ?
+[2015.01.23-22.33.09:024][995]LogBlueprintUserMessages: What do we do now ?
+[2015.01.23-22.33.09:569][ 19]LogBlueprintUserMessages: What do we do now ?
+[2015.01.23-22.33.12:449][136]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074F927B880
+[2015.01.23-22.34.03:860][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ActionDropBox" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/ActionDropBox.uasset" SILENT=true
+[2015.01.23-22.34.03:950][835]LogSavePackage: Save=65.583374ms
+[2015.01.23-22.34.03:950][835]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/ActionDropBox611E4A084CE23335B622849C91574D1F.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/ActionDropBox.uasset'
+[2015.01.23-22.34.19:358][322]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.01.23-22.34.19:366][322]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2015.01.23-22.34.19:523][322]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074EFCB32E0
+[2015.01.23-22.34.19:529][322]LogPlayLevel: PIE:  Blueprint regeneration took 170 ms (1 blueprints)
+[2015.01.23-22.34.19:529][322]PIE: New page: PIE session: Example_Map (Jan 24, 2015, 12:34:19 AM)
+[2015.01.23-22.34.19:579][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048961s)
+[2015.01.23-22.34.19:581][322]LogPlayLevel: PIE: World Init took: (0.002508s)
+[2015.01.23-22.34.19:582][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.051892s)
+[2015.01.23-22.34.19:668][322]LogWorld: Game class is 'MyGame_C'
+[2015.01.23-22.34.19:672][322]LogAIModule: Creating AISystem for world Example_Map
+[2015.01.23-22.34.19:675][322]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2015.01.23-23.34.19
+[2015.01.23-22.34.19:676][322]LogWorld: Bringing up level for play took: 0.003479
+[2015.01.23-22.34.19:681][322]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map -0.048
+[2015.01.23-22.34.22:037][423]LogBlueprintUserMessages: What do we do now ?
+[2015.01.23-22.34.25:453][559]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074EC6A6160
+[2015.01.23-22.41.47:640][819]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Architecture'
+[2015.01.23-22.41.48:400][852]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Audio'
+[2015.01.23-22.41.48:905][873]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Blueprints'
+[2015.01.23-22.41.49:580][903]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Materials'
+[2015.01.23-22.41.50:364][937]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Particles'
+[2015.01.23-22.41.51:095][970]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/HDRI'
+[2015.01.23-22.41.51:676][997]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Materials'
+[2015.01.23-22.42.01:521][425]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.01.23-22.42.01:524][425]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2015.01.23-22.42.01:572][425]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_10) Not registered. Aborting.
+[2015.01.23-22.42.01:589][425]LogPlayLevel: PIE:  Blueprint regeneration took 68 ms (1 blueprints)
+[2015.01.23-22.42.01:590][425]PIE: New page: PIE session: Example_Map (Jan 24, 2015, 12:42:01 AM)
+[2015.01.23-22.42.01:612][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022468s)
+[2015.01.23-22.42.01:613][425]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2015.01.23-22.42.01:614][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.023673s)
+[2015.01.23-22.42.01:661][425]LogWorld: Game class is 'MyGame_C'
+[2015.01.23-22.42.01:663][425]LogAIModule: Creating AISystem for world Example_Map
+[2015.01.23-22.42.01:664][425]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2015.01.23-23.42.01
+[2015.01.23-22.42.01:664][425]LogWorld: Bringing up level for play took: 0.001502
+[2015.01.23-22.42.01:666][425]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map -0.062
+[2015.01.23-22.42.21:627][404]LogBlueprintUserMessages: What do we do now ?
+[2015.01.23-22.42.23:980][520]LogBlueprintUserMessages: scale +
+[2015.01.23-22.42.25:893][614]LogBlueprintUserMessages: scale +
+[2015.01.23-22.42.26:076][623]LogBlueprintUserMessages: scale +
+[2015.01.23-22.42.26:361][637]LogBlueprintUserMessages: scale +
+[2015.01.23-22.42.26:526][645]LogBlueprintUserMessages: scale +
+[2015.01.23-22.42.26:711][654]LogBlueprintUserMessages: scale +
+[2015.01.23-22.42.29:480][792]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074F5532020
+[2015.01.23-22.42.31:477][883]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2015.01.23-22.52.06:626][419]LogSavePackage: Save=56.824825ms
+[2015.01.23-22.52.06:626][419]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/Example_Map_Auto79B9C6E9D4E7079120313F99E4C5194A1.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/Autosaves/Game/Maps/Example_Map_Auto7.umap'
+[2015.01.23-22.52.06:636][419]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Example_Map' took 0.144
+[2015.01.23-22.52.06:636][419]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.144
+[2015.01.23-22.55.55:949][416]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.01.23-22.55.55:952][416]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2015.01.23-22.55.56:018][416]LogPlayLevel: PIE:  Blueprint regeneration took 69 ms (1 blueprints)
+[2015.01.23-22.55.56:018][416]PIE: New page: PIE session: Example_Map (Jan 24, 2015, 12:55:56 AM)
+[2015.01.23-22.55.56:040][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021502s)
+[2015.01.23-22.55.56:041][416]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2015.01.23-22.55.56:041][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.022563s)
+[2015.01.23-22.55.56:096][416]LogWorld: Game class is 'MyGame_C'
+[2015.01.23-22.55.56:098][416]LogAIModule: Creating AISystem for world Example_Map
+[2015.01.23-22.55.56:099][416]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2015.01.23-23.55.56
+[2015.01.23-22.55.56:099][416]LogWorld: Bringing up level for play took: 0.001453
+[2015.01.23-22.55.56:101][416]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.373
+[2015.01.23-22.55.57:310][468]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074F817E200
+[2015.01.23-22.56.11:261][ 28]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2015.01.23-22.56.11:343][ 28]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_11) Not registered. Aborting.
+[2015.01.23-22.56.11:463][ 28]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_11) Not registered. Aborting.
+[2015.01.23-22.56.11:463][ 28]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_0) Already registered. Aborting.
+[2015.01.23-22.56.11:469][ 28]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2015.01.23-22.56.11:509][ 28]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_37, compiling.
+[2015.01.23-22.56.11:514][ 28]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_38, compiling.
+[2015.01.23-22.56.11:519][ 28]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_39, compiling.
+[2015.01.23-22.56.11:525][ 28]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionBumpOffset_6, compiling.
+[2015.01.23-22.56.11:531][ 28]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_40, compiling.
+[2015.01.23-22.56.11:538][ 28]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_24, compiling.
+[2015.01.23-22.56.11:543][ 28]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_25, compiling.
+[2015.01.23-22.56.14:785][ 97]MaterialEditorStats: Info Base pass shader with static lighting: 102 instructions
+[2015.01.23-22.56.14:785][ 97]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 71 instructions
+[2015.01.23-22.56.14:785][ 97]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.01.23-22.56.14:785][ 97]MaterialEditorStats: Info Texture samplers: 5/16
+[2015.01.23-22.56.29:976][605]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_11) Not registered. Aborting.
+[2015.01.23-22.56.29:976][605]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_0) Already registered. Aborting.
+[2015.01.23-22.56.30:962][631]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_11) Not registered. Aborting.
+[2015.01.23-22.56.30:962][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_0) Already registered. Aborting.
+[2015.01.23-22.56.40:535][871]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_11) Not registered. Aborting.
+[2015.01.23-22.56.40:535][871]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_0) Already registered. Aborting.
+[2015.01.23-22.56.42:505][920]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_11) Not registered. Aborting.
+[2015.01.23-22.56.42:505][920]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_0) Already registered. Aborting.
+[2015.01.23-22.58.07:242][505]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074B8D2F4C0
+[2015.01.23-22.58.08:615][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.01.23-22.58.08:777][505]LogSavePackage: Save=96.491760ms
+[2015.01.23-22.58.08:777][505]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/Example_Map1F9E54CE4207BCF82C9D1DB662A6AD00.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Maps/Example_Map.umap'
+[2015.01.23-22.58.08:847][505]LogFileHelpers: Saving map 'Example_Map' took 1.547
+[2015.01.23-22.58.20:586][919]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.01.23-22.58.20:594][919]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2015.01.23-22.58.20:756][919]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074E75F8180
+[2015.01.23-22.58.20:757][919]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074BC1AF060
+[2015.01.23-22.58.20:767][919]LogPlayLevel: PIE:  Blueprint regeneration took 180 ms (1 blueprints)
+[2015.01.23-22.58.20:767][919]PIE: New page: PIE session: Example_Map (Jan 24, 2015, 12:58:20 AM)
+[2015.01.23-22.58.20:818][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050002s)
+[2015.01.23-22.58.20:819][919]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2015.01.23-22.58.20:820][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.051893s)
+[2015.01.23-22.58.20:912][919]LogWorld: Game class is 'MyGame_C'
+[2015.01.23-22.58.20:916][919]LogAIModule: Creating AISystem for world Example_Map
+[2015.01.23-22.58.20:919][919]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2015.01.23-23.58.20
+[2015.01.23-22.58.20:920][919]LogWorld: Bringing up level for play took: 0.003420
+[2015.01.23-22.58.20:925][919]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 1.196
+[2015.01.23-22.59.04:233][673]LogBlueprintUserMessages: What do we do now ?
+[2015.01.23-22.59.05:900][744]LogBlueprintUserMessages: What do we do now ?
+[2015.01.23-22.59.10:503][938]LogBlueprintUserMessages: gravity up
+[2015.01.23-22.59.14:634][113]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.14:806][120]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.14:999][128]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.15:151][134]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.15:305][140]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.15:457][146]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.15:612][152]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.15:744][157]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.15:913][164]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.16:057][170]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.18:816][280]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.19:246][297]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.19:734][316]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.20:218][335]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.20:659][351]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.20:886][361]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.21:148][371]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.21:415][381]LogBlueprintUserMessages: scale +
+[2015.01.23-22.59.27:524][629]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074BC1AFCE0
+[2015.01.23-22.59.28:759][672]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.01.23-22.59.28:766][672]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2015.01.23-22.59.28:928][672]LogPlayLevel: PIE:  Blueprint regeneration took 169 ms (1 blueprints)
+[2015.01.23-22.59.28:929][672]PIE: New page: PIE session: Example_Map (Jan 24, 2015, 12:59:28 AM)
+[2015.01.23-22.59.28:979][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050017s)
+[2015.01.23-22.59.28:981][672]LogPlayLevel: PIE: World Init took: (0.002145s)
+[2015.01.23-22.59.28:982][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.052640s)
+[2015.01.23-22.59.29:083][672]LogWorld: Game class is 'MyGame_C'
+[2015.01.23-22.59.29:087][672]LogAIModule: Creating AISystem for world Example_Map
+[2015.01.23-22.59.29:090][672]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2015.01.23-23.59.29
+[2015.01.23-22.59.29:091][672]LogWorld: Bringing up level for play took: 0.003403
+[2015.01.23-22.59.29:095][672]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map -0.634
+[2015.01.23-22.59.29:901][697]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074F065D1C0
+[2015.01.23-22.59.47:492][302]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling.
+[2015.01.23-22.59.47:543][302]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_12) Not registered. Aborting.
+[2015.01.23-22.59.47:686][302]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_12) Not registered. Aborting.
+[2015.01.23-22.59.47:686][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_1) Already registered. Aborting.
+[2015.01.23-22.59.47:686][302]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_12) Not registered. Aborting.
+[2015.01.23-22.59.47:686][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_1) Already registered. Aborting.
+[2015.01.23-22.59.47:694][302]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling.
+[2015.01.23-22.59.47:737][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_47, compiling.
+[2015.01.23-22.59.47:743][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_46, compiling.
+[2015.01.23-22.59.47:751][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_49, compiling.
+[2015.01.23-22.59.47:759][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling.
+[2015.01.23-22.59.47:768][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling.
+[2015.01.23-22.59.47:776][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_18, compiling.
+[2015.01.23-22.59.51:264][350]MaterialEditorStats: Info Base pass shader with static lighting: 95 instructions
+[2015.01.23-22.59.51:264][350]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 65 instructions
+[2015.01.23-22.59.51:264][350]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2015.01.23-22.59.51:264][350]MaterialEditorStats: Info Texture samplers: 5/16
+[2015.01.23-23.04.47:951][790]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2015.01.23-23.09.15:589][494]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074C19A6C00
+[2015.01.23-23.09.15:828][494]LogSavePackage: Save=136.891403ms
+[2015.01.23-23.09.15:828][494]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/Example_Map_Auto86AD6A6A443AB064FDB9B41882B20A1B1.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/Autosaves/Game/Maps/Example_Map_Auto8.umap'
+[2015.01.23-23.09.15:849][494]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Example_Map' took 0.308
+[2015.01.23-23.09.15:849][494]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.308
+[2015.01.23-23.13.41:302][396]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.01.23-23.13.41:311][396]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2015.01.23-23.13.41:462][396]LogPlayLevel: PIE:  Blueprint regeneration took 160 ms (1 blueprints)
+[2015.01.23-23.13.41:463][396]PIE: New page: PIE session: Example_Map (Jan 24, 2015, 1:13:41 AM)
+[2015.01.23-23.13.41:517][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053742s)
+[2015.01.23-23.13.41:520][396]LogPlayLevel: PIE: World Init took: (0.003029s)
+[2015.01.23-23.13.41:520][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.057185s)
+[2015.01.23-23.13.41:600][396]LogWorld: Game class is 'MyGame_C'
+[2015.01.23-23.13.41:605][396]LogAIModule: Creating AISystem for world Example_Map
+[2015.01.23-23.13.41:608][396]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2015.01.24-00.13.41
+[2015.01.23-23.13.41:609][396]LogWorld: Bringing up level for play took: 0.003388
+[2015.01.23-23.13.41:614][396]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map -0.115
+[2015.01.23-23.13.43:674][466]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074D90B5E40
+[2015.01.23-23.13.52:082][742]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2015.01.23-23.14.34:648][837]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_11) Not registered. Aborting.
+[2015.01.23-23.14.34:991][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.01.23-23.14.35:204][837]LogSavePackage: Save=138.022583ms
+[2015.01.23-23.14.35:204][837]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/Example_MapB64D01D74FAD47FC6B1EDEA1AA810802.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Maps/Example_Map.umap'
+[2015.01.23-23.14.35:285][837]LogFileHelpers: Saving map 'Example_Map' took 0.549
+[2015.01.23-23.14.35:292][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ActionDropBox" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/ActionDropBox.uasset" SILENT=true
+[2015.01.23-23.14.35:392][837]LogSavePackage: Save=69.595406ms
+[2015.01.23-23.14.35:392][837]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/ActionDropBox4DB841BE4CB75377CB46D5B5131C9C59.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/ActionDropBox.uasset'
+[2015.01.23-23.15.18:747][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ActionDropBox" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/ActionDropBox.uasset" SILENT=true
+[2015.01.23-23.15.18:842][763]LogSavePackage: Save=64.910912ms
+[2015.01.23-23.15.18:842][763]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/ActionDropBox202348354E71BFEDC7964D91DA69AB2A.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/ActionDropBox.uasset'
+[2015.01.23-23.15.20:543][802]BlueprintLog: New page: Compile ActionDropBox
+[2015.01.23-23.15.20:779][802]BlueprintEditorCompileResults: Info [0404.27] Compile of ActionDropBox successful! [in 200 ms]
+[2015.01.23-23.15.24:184][911]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.01.23-23.15.24:191][911]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2015.01.23-23.15.24:348][911]LogPlayLevel: PIE:  Blueprint regeneration took 164 ms (1 blueprints)
+[2015.01.23-23.15.24:348][911]PIE: New page: PIE session: Example_Map (Jan 24, 2015, 1:15:24 AM)
+[2015.01.23-23.15.24:397][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048436s)
+[2015.01.23-23.15.24:399][911]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2015.01.23-23.15.24:399][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.050426s)
+[2015.01.23-23.15.24:500][911]LogWorld: Game class is 'MyGame_C'
+[2015.01.23-23.15.24:504][911]LogAIModule: Creating AISystem for world Example_Map
+[2015.01.23-23.15.24:506][911]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2015.01.24-00.15.24
+[2015.01.23-23.15.24:508][911]LogWorld: Bringing up level for play took: 0.003297
+[2015.01.23-23.15.24:512][911]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.783
+[2015.01.23-23.15.29:170][ 89]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074C409C180
+[2015.01.23-23.15.30:677][140]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.01.23-23.15.30:685][140]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2015.01.23-23.15.30:836][140]LogPlayLevel: PIE:  Blueprint regeneration took 158 ms (1 blueprints)
+[2015.01.23-23.15.30:836][140]PIE: New page: PIE session: Example_Map (Jan 24, 2015, 1:15:30 AM)
+[2015.01.23-23.15.30:887][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049620s)
+[2015.01.23-23.15.30:889][140]LogPlayLevel: PIE: World Init took: (0.002452s)
+[2015.01.23-23.15.30:890][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.052454s)
+[2015.01.23-23.15.30:985][140]LogWorld: Game class is 'MyGame_C'
+[2015.01.23-23.15.30:989][140]LogAIModule: Creating AISystem for world Example_Map
+[2015.01.23-23.15.30:992][140]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2015.01.24-00.15.30
+[2015.01.23-23.15.30:994][140]LogWorld: Bringing up level for play took: 0.003505
+[2015.01.23-23.15.30:998][140]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 1.269
+[2015.01.23-23.15.34:058][254]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074C19A4180
+[2015.01.23-23.15.47:396][591]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_12) Not registered. Aborting.
+[2015.01.23-23.15.47:487][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ActionDropBox" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/ActionDropBox.uasset" SILENT=true
+[2015.01.23-23.15.47:586][591]LogSavePackage: Save=70.671257ms
+[2015.01.23-23.15.47:587][591]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/ActionDropBoxB7262EED4339D834EC444CA0A6392811.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/ActionDropBox.uasset'
+[2015.01.23-23.15.56:928][814]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_13) Not registered. Aborting.
+[2015.01.23-23.15.57:016][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/widgetWait" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/widgetWait.uasset" SILENT=true
+[2015.01.23-23.15.57:056][814]LogSavePackage: Save=12.660810ms
+[2015.01.23-23.15.57:056][814]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/widgetWait7B3830714097BD3FDDA3FBB767D7F123.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/widgetWait.uasset'
+[2015.01.23-23.16.22:226][578]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_14) Not registered. Aborting.
+[2015.01.23-23.16.22:316][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TextFieldAction" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/TextFieldAction.uasset" SILENT=true
+[2015.01.23-23.16.22:380][578]LogSavePackage: Save=29.870907ms
+[2015.01.23-23.16.22:380][578]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/TextFieldAction00A4E89746087423FA86CC8B34F9EC0D.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/TextFieldAction.uasset'
+[2015.01.23-23.16.25:829][656]BlueprintLog: New page: Compile TextFieldAction
+[2015.01.23-23.16.26:077][656]BlueprintEditorCompileResults: Info [0469.57] Compile of TextFieldAction successful! [in 236 ms]
+[2015.01.23-23.16.27:856][710]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.01.23-23.16.27:864][710]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2015.01.23-23.16.27:983][710]LogPlayLevel: [PIE] Compiling ActionDropBox before PIE...
+[2015.01.23-23.16.28:190][710]LogPlayLevel: PIE:  Blueprint regeneration took 332 ms (2 blueprints)
+[2015.01.23-23.16.28:190][710]PIE: New page: PIE session: Example_Map (Jan 24, 2015, 1:16:28 AM)
+[2015.01.23-23.16.28:239][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048100s)
+[2015.01.23-23.16.28:246][710]LogPlayLevel: PIE: World Init took: (0.006819s)
+[2015.01.23-23.16.28:246][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.055376s)
+[2015.01.23-23.16.28:331][710]LogWorld: Game class is 'MyGame_C'
+[2015.01.23-23.16.28:336][710]LogAIModule: Creating AISystem for world Example_Map
+[2015.01.23-23.16.28:339][710]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 60) at 2015.01.24-00.16.28
+[2015.01.23-23.16.28:340][710]LogWorld: Bringing up level for play took: 0.003394
+[2015.01.23-23.16.28:344][710]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.615
+[2015.01.23-23.16.36:450][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/widgetWait" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/widgetWait.uasset" SILENT=true
+[2015.01.23-23.16.36:484][  9]LogSavePackage: Save=12.107041ms
+[2015.01.23-23.16.36:484][  9]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/widgetWaitE2364FD6422E2E0878E913B340E34A1B.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/widgetWait.uasset'
+[2015.01.23-23.16.41:108][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ActionDropBox" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/ActionDropBox.uasset" SILENT=true
+[2015.01.23-23.16.41:203][142]LogSavePackage: Save=70.589600ms
+[2015.01.23-23.16.41:203][142]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/ActionDropBoxBA2552C64930CCAD9E4AC3B11D932BAF.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/ActionDropBox.uasset'
+[2015.01.23-23.16.43:667][226]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074B8C09EE0
+[2015.01.23-23.16.43:726][227]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074B8C0BC40
+[2015.01.23-23.16.43:726][227]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074D0E2A660
+[2015.01.23-23.16.49:853][375]BlueprintLog: New page: Compile widgetWait
+[2015.01.23-23.16.49:940][375]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_15) Not registered. Aborting.
+[2015.01.23-23.16.49:979][375]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074C8B09F80
+[2015.01.23-23.16.50:016][375]BlueprintEditorCompileResults: Info [0493.51] Compile of widgetWait successful! [in 162 ms]
+[2015.01.23-23.16.50:510][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/widgetWait" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/widgetWait.uasset" SILENT=true
+[2015.01.23-23.16.50:555][388]LogSavePackage: Save=12.218597ms
+[2015.01.23-23.16.50:555][388]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/widgetWaitF81BEA164203F3B489C08A9DED445127.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/widgetWait.uasset'
+[2015.01.23-23.16.55:202][517]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.01.23-23.16.55:209][517]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2015.01.23-23.16.55:326][517]LogPlayLevel: [PIE] Compiling ActionDropBox before PIE...
+[2015.01.23-23.16.55:488][517]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_16) Not registered. Aborting.
+[2015.01.23-23.16.55:533][517]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074F078C5E0
+[2015.01.23-23.16.55:534][517]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000074CE658D60
+[2015.01.23-23.16.55:539][517]LogPlayLevel: PIE:  Blueprint regeneration took 337 ms (2 blueprints)
+[2015.01.23-23.16.55:539][517]PIE: New page: PIE session: Example_Map (Jan 24, 2015, 1:16:55 AM)
+[2015.01.23-23.16.55:590][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050147s)
+[2015.01.23-23.16.55:592][517]LogPlay
