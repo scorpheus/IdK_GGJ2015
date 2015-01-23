@@ -1,0 +1,80 @@
+﻿Log file open, 01/23/15 18:36:04
+LogInit:Display: Running engine for game: IdK
+LogInit: Version: 4.6.1-2386410+++depot+UE4-Releases+4.6
+LogInit: API Version: 2369412
+LogInit: Compiled (64-bit): Dec 11 2014 21:31:39
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.6
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.6/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2015.01.23-17.36.04:489][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
+[2015.01.23-17.36.04:545][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.01.23-17.36.04:563][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.01.23-17.36.04:572][  0]LogInit: Object subsystem initialized
+[2015.01.23-17.36.04:573][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.01.23-17.36.04:573][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.01.23-17.36.04:573][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.01.23-17.36.04:573][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.01.23-17.36.04:574][  0]LogConsoleManager:Warning: Console variable 'r.MSAA.CompositingSampleCount' wasn't set (Priority ProjectSetting < Scalability)
+[2015.01.23-17.36.04:574][  0]LogInit: Selected Device Profile: [Windows]
+[2015.01.23-17.36.04:574][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.01.23-17.36.04:579][  0]LogInit: Computer: MACBOOKPRO15R
+[2015.01.23-17.36.04:579][  0]LogInit: User: scorpheus
+[2015.01.23-17.36.04:579][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.01.23-17.36.04:579][  0]LogInit: High frequency timer resolution =2.241010 MHz
+[2015.01.23-17.36.04:579][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx) Virtual=131072.0GB
+[2015.01.23-17.36.04:579][  0]LogMemory: Platform Memory Stats for Windows
+[2015.01.23-17.36.04:579][  0]LogMemory: Process Physical Memory: 48.19 MB used, 48.19 MB peak
+[2015.01.23-17.36.04:579][  0]LogMemory: Process Virtual Memory: 24.16 MB used, 24.16 MB peak
+[2015.01.23-17.36.04:579][  0]LogMemory: Physical Memory: 1911.40 MB used, 8098.70 MB total
+[2015.01.23-17.36.04:579][  0]LogMemory: Virtual Memory: 274.23 MB used, 134217728.00 MB total
+[2015.01.23-17.36.04:602][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GT 650M (Feature Level 11_0)
+[2015.01.23-17.36.04:602][  0]LogD3D11RHI: Adapter has 965MB of dedicated video memory, 0MB of dedicated system memory, and 3072MB of shared system memory, 1 output[s]
+[2015.01.23-17.36.04:603][  0]LogD3D11RHI: Found D3D11 adapter 1: Microsoft Basic Render Driver (Feature Level 11_0)
+[2015.01.23-17.36.04:603][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 256MB of shared system memory, 0 output[s]
+[2015.01.23-17.36.04:603][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.01.23-17.36.04:606][  0]LogRHI: Texture pool is 675 MB (70% of 965 MB)
+[2015.01.23-17.36.04:618][  0]LogD3D11RHI: Async texture creation enabled
+[2015.01.23-17.36.04:688][  0]LogTextLocalizationManager: The requested culture ('fr_FR') has no localization data; falling back to 'en' for localization and internationalization data.
+[2015.01.23-17.36.04:859][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2015.01.23-17.36.10:570][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.01.23-17.36.10:998][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.01.23-17.36.11:048][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.01.23-17.36.11:083][  0]LogDerivedDataCache: Loaded boot cache 0.03s 39MB C:/Users/scorpheus/AppData/Local/UnrealEngine/4.6/DerivedDataCache/Boot.ddc.
+[2015.01.23-17.36.11:083][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/scorpheus/AppData/Local/UnrealEngine/4.6/DerivedDataCache/Boot.ddc
+[2015.01.23-17.36.11:083][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.01.23-17.36.11:083][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.01.23-17.36.11:153][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2015.01.23-17.36.11:165][  0]LogDerivedDataCache: Using Local data cache path C:/Users/scorpheus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2015.01.23-17.36.11:288][  0]LogCollisionProfile:Warning: Profile (UI) - Custom Channel Name = 'Weapon' hasn't been found
+[2015.01.23-17.36.11:429][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2015.01.23-17.36.11:429][  0]LogMeshUtilities: No automatic mesh merging module available
+[2015.01.23-17.36.11:919][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.01.23-17.36.11:972][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
+[2015.01.23-17.36.12:769][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2015.01.23-17.36.12:919][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Binaries/Win64. Error: 0
+[2015.01.23-17.36.13:055][  0]SourceControl: Info Source control is disabled
+[2015.01.23-17.36.13:055][  0]SourceControl: Info Source control is disabled
+[2015.01.23-17.36.13:062][  0]SourceControl: Info Source control is disabled
+[2015.01.23-17.36.13:170][  0]LogObj: 23754 objects as part of root set at end of initial load.
+[2015.01.23-17.36.13:170][  0]LogUObjectAllocator: 5168136 out of 0 bytes used by permanent object pool.
+[2015.01.23-17.36.13:224][  0]LogEngine: Initializing Engine...
+[2015.01.23-17.36.13:367][  0]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 40))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2015.01.23-17.36.13:382][  0]LogInit: FAudioDevice initialized.
+[2015.01.23-17.36.13:400][  0]LogAIModule: Creating AISystem for world NewWorld
+[2015.01.23-17.36.13:419][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/scorpheus/AppData/Local/UnrealEngine/4.6/DerivedDataCache/Boot.ddc.
+[2015.01.23-17.36.13:422][  0]LogInit: Texture streaming: Enabled
+[2015.01.23-17.36.13:447][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2015.01.23-17.36.13:447][  0]LogAnalytics: ET APIKey = Rocket.Release. APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.6.1-2386410+++depot+UE4-Releases+4.6
+[2015.01.23-17.36.13:448][  0]LogAnalytics: SetUserId b3902d7df56ae4ebd2237e470e7ca654
+[2015.01.23-17.36.13:448][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
+[2015.01.23-17.36.13:460][  0]LogInit: Transaction tracking system initialized
+[2015.01.23-17.36.13:542][  0]BlueprintLog: New page: Editor Load
+[2015.01.23-17.36.13:571][  0]LogAssetRegistry: FAssetRegistry took 0.0112 seconds to start up
+[2015.01.23-17.36.13:571][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2015.01.23-17.36.14:047][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.01.23-17.36.14:393][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.01.23-17.36.14:556][  0]LogConsoleResponse:Display: 
+[2015.01.23-17.36.14:600][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset' has been sa
