@@ -353,4 +353,100 @@ LogInit: Rocket: 1
 [2015.01.23-19.45.59:100][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TextFieldAction" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/TextFieldAction.uasset" SILENT=true
 [2015.01.23-19.45.59:158][541]LogSavePackage: Save=30.432707ms
 [2015.01.23-19.45.59:159][541]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/TextFieldActionB9B3F11C4D0BC892158F22A27CD35AEE.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Blueprints/TextFieldAction.uasset'
-[2015.01.23-19.45.59:470][548]BlueprintLog: New page: Compi
+[2015.01.23-19.45.59:470][548]BlueprintLog: New page: Compile TextFieldAction
+[2015.01.23-19.45.59:567][548]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_6) Not registered. Aborting.
+[2015.01.23-19.45.59:639][548]BlueprintEditorCompileResults: Info [1265.67] Compile of TextFieldAction successful! [in 157 ms]
+[2015.01.23-19.46.40:375][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.01.23-19.46.40:671][555]LogSavePackage: Save=228.951675ms
+[2015.01.23-19.46.40:671][555]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/Example_Map3AEC039C4C22BE1AD3515089F293F672.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Maps/Example_Map.umap'
+[2015.01.23-19.46.40:741][555]LogFileHelpers: Saving map 'Example_Map' took 0.606
+[2015.01.23-19.47.00:828][955]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_7) Not registered. Aborting.
+[2015.01.23-19.47.41:344][604]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.01.23-19.47.41:351][604]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2015.01.23-19.47.41:446][604]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_8) Not registered. Aborting.
+[2015.01.23-19.47.41:483][604]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000077897AD8A0
+[2015.01.23-19.47.41:483][604]LogPlayLevel: PIE:  Blueprint regeneration took 139 ms (1 blueprints)
+[2015.01.23-19.47.41:484][604]PIE: New page: PIE session: Example_Map (Jan 23, 2015, 9:47:41 PM)
+[2015.01.23-19.47.41:532][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048066s)
+[2015.01.23-19.47.41:534][604]LogPlayLevel: PIE: World Init took: (0.001943s)
+[2015.01.23-19.47.41:535][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.050429s)
+[2015.01.23-19.47.41:609][604]LogWorld: Game class is 'MyGame_C'
+[2015.01.23-19.47.41:613][604]LogAIModule: Creating AISystem for world Example_Map
+[2015.01.23-19.47.41:616][604]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2015.01.23-20.47.41
+[2015.01.23-19.47.41:617][604]LogWorld: Bringing up level for play took: 0.003153
+[2015.01.23-19.47.41:621][604]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map -0.108
+[2015.01.23-19.48.07:779][588]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000077156CA520
+[2015.01.23-19.48.18:096][916]Cmd: EDIT COPY
+[2015.01.23-19.48.18:414][925]Cmd: EDIT PASTE
+[2015.01.23-19.48.18:470][925]LogUObjectHash:Warning: Ambiguous search, could be Model /Engine/Transient.World_3:PersistentLevel.Model_6 or Model /Game/Maps/Example_Map.Example_Map:PersistentLevel.Wall5.Model_6
+[2015.01.23-19.48.18:471][925]LogUObjectHash:Warning: Ambiguous search, could be Model /Engine/Transient.World_3:PersistentLevel.Model_6 or Model /Game/Maps/Example_Map.Example_Map:PersistentLevel.Wall4.Model_6
+[2015.01.23-19.48.18:471][925]LogUObjectHash:Warning: Ambiguous search, could be Model /Engine/Transient.World_3:PersistentLevel.Model_6 or Model /Game/Maps/Example_Map.Example_Map:PersistentLevel.Wall3.Model_6
+[2015.01.23-19.48.18:471][925]LogUObjectHash:Warning: Ambiguous search, could be Model /Engine/Transient.World_3:PersistentLevel.Model_6 or Model /Game/Maps/Example_Map.Example_Map:PersistentLevel.Wall2.Model_6
+[2015.01.23-19.48.18:471][925]LogUObjectHash:Warning: Ambiguous search, could be Model /Engine/Transient.World_3:PersistentLevel.Model_6 or Model /Game/Maps/Example_Map.Example_Map:PersistentLevel.Wall1.Model_6
+[2015.01.23-19.48.18:471][925]LogUObjectHash:Warning: Ambiguous search, could be Model /Engine/Transient.World_3:PersistentLevel.Model_6 or Model /Game/Maps/Example_Map.Example_Map:PersistentLevel.Ledge7.Model_6
+[2015.01.23-19.48.18:471][925]LogUObjectHash:Warning: Ambiguous search, could be Model /Engine/Transient.World_3:PersistentLevel.Model_6 or Model /Game/Maps/Example_Map.Example_Map:PersistentLevel.Ledge6.Model_6
+[2015.01.23-19.48.18:471][925]LogUObjectHash:Warning: Ambiguous search, could be Model /Engine/Transient.World_3:PersistentLevel.Model_6 or Model /Game/Maps/Example_Map.Example_Map:PersistentLevel.LEdge5.Model_6
+[2015.01.23-19.48.18:471][925]LogUObjectHash:Warning: Ambiguous search, could be Model /Engine/Transient.World_3:PersistentLevel.Model_6 or Model /Game/Maps/Example_Map.Example_Map:PersistentLevel.Ledge4.Model_6
+[2015.01.23-19.48.18:471][925]LogUObjectHash:Warning: Ambiguous search, could be Model /Engine/Transient.World_3:PersistentLevel.Model_6 or Model /Game/Maps/Example_Map.Example_Map:PersistentLevel.Ledge3.Model_6
+[2015.01.23-19.48.18:471][925]LogUObjectHash:Warning: Ambiguous search, could be Model /Engine/Transient.World_3:PersistentLevel.Model_6 or Model /Game/Maps/Example_Map.Example_Map:PersistentLevel.Ledge2.Model_6
+[2015.01.23-19.48.18:471][925]LogUObjectHash:Warning: Ambiguous search, could be Model /Engine/Transient.World_3:PersistentLevel.Model_6 or Model /Game/Maps/Example_Map.Example_Map:PersistentLevel.Ledge1.Model_6
+[2015.01.23-19.48.18:471][925]LogUObjectHash:Warning: Ambiguous search, could be Model /Engine/Transient.World_3:PersistentLevel.Model_6 or Model /Game/Maps/Example_Map.Example_Map:PersistentLevel.Floor.Model_6
+[2015.01.23-19.48.18:471][925]LogProperty:Warning: Illegal TEXT reference to a private object in external package (Model /Engine/Transient.World_3:PersistentLevel.Model_6) from referencer (BrushComponent /Game/Maps/Example_Map.Example_Map:PersistentLevel.Wall4_10.BrushComponent0).  Import failed...
+[2015.01.23-19.48.18:471][925]LogProperty:Warning: ObjectProperty /Script/Engine.BrushComponent:Brush: unresolved reference to 'Model'Model_6''
+[2015.01.23-19.48.18:507][925]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2015.01.23-19.48.21:600][ 25]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2015.01.23-19.48.36:665][488]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2015.01.23-19.49.14:973][716]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2015.01.23-19.49.21:230][914]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2015.01.23-19.49.23:362][984]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_9) Not registered. Aborting.
+[2015.01.23-19.49.23:699][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.01.23-19.49.23:855][984]LogSavePackage: Save=105.858963ms
+[2015.01.23-19.49.23:855][984]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/Example_Map17251B494ADD8974322CE68B2C056B18.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Maps/Example_Map.umap'
+[2015.01.23-19.49.23:925][984]LogFileHelpers: Saving map 'Example_Map' took 0.464
+[2015.01.23-19.49.25:813][ 41]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.01.23-19.49.25:820][ 41]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2015.01.23-19.49.25:959][ 41]LogPlayLevel: PIE:  Blueprint regeneration took 146 ms (1 blueprints)
+[2015.01.23-19.49.25:960][ 41]PIE: New page: PIE session: Example_Map (Jan 23, 2015, 9:49:25 PM)
+[2015.01.23-19.49.26:008][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048019s)
+[2015.01.23-19.49.26:010][ 41]LogPlayLevel: PIE: World Init took: (0.001637s)
+[2015.01.23-19.49.26:010][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.050146s)
+[2015.01.23-19.49.26:087][ 41]LogWorld: Game class is 'MyGame_C'
+[2015.01.23-19.49.26:090][ 41]LogAIModule: Creating AISystem for world Example_Map
+[2015.01.23-19.49.26:093][ 41]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2015.01.23-20.49.26
+[2015.01.23-19.49.26:094][ 41]LogWorld: Bringing up level for play took: 0.003247
+[2015.01.23-19.49.26:098][ 41]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.369
+[2015.01.23-19.49.59:824][269]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000077156C8EA0
+[2015.01.23-19.51.53:630][413]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2015.01.23-19.52.00:337][701]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.01.23-19.52.15:301][184]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2015.01.23-19.52.24:086][468]Cmd: EDCALLBACK SURFPROPS
+[2015.01.23-19.52.29:681][642]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2015.01.23-19.52.29:702][642]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.01.23-19.52.37:540][872]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2015.01.23-19.52.37:561][872]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.01.23-19.52.38:111][888]Cmd: ACTOR SELECT ALL
+[2015.01.23-19.52.39:448][931]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2015.01.23-19.52.39:470][931]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.01.23-19.59.18:395][204]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_10) Not registered. Aborting.
+[2015.01.23-19.59.18:550][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Example_Map" FILE="../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Maps/Example_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.01.23-19.59.18:630][204]LogSavePackage: Save=50.418785ms
+[2015.01.23-19.59.18:630][204]LogSavePackage: Moving '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Saved/Example_MapE561D3F0415C0C0E1FED3CB6F8B566C8.tmp' to '../../../../../../Users/scorpheus/Desktop/IdK/source/IdK_GGJ2015/Content/Maps/Example_Map.umap'
+[2015.01.23-19.59.18:665][204]LogFileHelpers: Saving map 'Example_Map' took 0.205
+[2015.01.23-19.59.22:229][340]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.01.23-19.59.22:237][340]LogPlayLevel: [PIE] Compiling Example_Map before PIE...
+[2015.01.23-19.59.22:299][340]LogPlayLevel: PIE:  Blueprint regeneration took 69 ms (1 blueprints)
+[2015.01.23-19.59.22:299][340]PIE: New page: PIE session: Example_Map (Jan 23, 2015, 9:59:22 PM)
+[2015.01.23-19.59.22:319][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020048s)
+[2015.01.23-19.59.22:322][340]LogPlayLevel: PIE: World Init took: (0.002477s)
+[2015.01.23-19.59.22:322][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Example_Map.Example_Map to /Game/Maps/UEDPIE_0_Example_Map.Example_Map (0.022727s)
+[2015.01.23-19.59.22:390][340]LogWorld: Game class is 'MyGame_C'
+[2015.01.23-19.59.22:392][340]LogAIModule: Creating AISystem for world Example_Map
+[2015.01.23-19.59.22:393][340]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Example_Map.Example_Map up for play (max tick rate 0) at 2015.01.23-20.59.22
+[2015.01.23-19.59.22:394][340]LogWorld: Bringing up level for play took: 0.001497
+[2015.01.23-19.59.22:395][340]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Example_Map 0.666
+[2015.01.23-19.59.29:727][691]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.01.23-19.59.29:845][692]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000771ED0B7E0
+[2015.01.23-19.59.38:344][975]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2015.01.23-19.59.43:350][151]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2015.01.23-19.59.44:253][181]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2015.01.23-19.59.44:273][181]LogPropertyNode:War
